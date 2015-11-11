@@ -2,4 +2,4 @@ total 12111
 -rw-rw-r-- 1 alberto alberto 169 Feb 22 16:11 file001.txt
 -rw-rw-r-- 1 alberto alberto  49 Feb 22 16:11 README.md
 -rw-rw-r-- 1 alberto alberto   0 Mar  3 21:09 teste.txt
-the quick brown fox jumps over the lazy dog.
+The quick brown fox jumps over the lazy dog.
