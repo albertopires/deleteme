@@ -4,4 +4,4 @@ total 12111
 -rw-rw-r-- 1 alberto alberto   0 Mar  3 21:09 teste.txt
 The quick brown fox jumps over the lazy dog.
 
-write to master
+change to staging/next - master.
