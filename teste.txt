@@ -7,10 +7,8 @@ The quick brown fox jumps over the lazy dog.
 change to staging/next - master.
 teste
 
-tesdfsdf
-sdfsdfsdf
 
-
-sdfsdfs
-sdfsdfsd
+void function_B() {
+	sdfsdfsdfsdf
+}
 
