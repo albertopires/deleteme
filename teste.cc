@@ -6,8 +6,9 @@
 using std::cout;
 using std::endl;
 
+// other comment
 int main(void) {
-	cout << "teste" << endl;
+	cout << "teste" << endl; // comment
 	exit(0);
 }
 
