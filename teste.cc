@@ -7,6 +7,6 @@ using std::cout;
 using std::endl;
 
 int main(void) {
-       cout << "teste" << endl;
+       cout << "teste" << endl; // comment
 }
 
