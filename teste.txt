@@ -6,4 +6,13 @@ The quick brown fox jumps over the lazy dog.
 
 change to staging/next - master.
 teste
+
+void function_A() {
+	dsfsdfdsfs
+}
+
+void function_B() {
+	sdfsdfsdfsdf
+}
+
 rebase - teste
