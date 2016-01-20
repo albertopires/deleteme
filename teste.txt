@@ -15,3 +15,5 @@ void function_B() {
 	sdfsdfsdfsdf
 }
 
+rebase - teste
+from master to staging to next
