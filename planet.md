@@ -21,15 +21,9 @@ It's possible to compile MhFtp on older version of g++, although it may necessar
 to comment the compile options **-pedantic** and **-std=c++11** on your Makefile.
 
 
->CFLAGS=-Wall -g #-pedantic -std=c++11
-
->CFLAGS=-Wall -g #-pedantic -std=c++11
->the quick brown fox...
-
 {% highlight bash %}
->Blockquotes
+>CFLAGS=-Wall -g #-pedantic -std=c++11
 {% endhighlight bash %}
-
 
 and then, just run make.
 
