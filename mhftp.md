@@ -1,7 +1,6 @@
 ---
 layout: page
 title: MhFTP
-
 ---
 
 ## Multi-homed File Transfer Protocol ##
