@@ -22,7 +22,7 @@ to comment the compile options **-pedantic** and **-std=c++11** on your Makefile
 
 
 {% highlight bash %}
->CFLAGS=-Wall -g #-pedantic -std=c++11
+CFLAGS=-Wall -g #-pedantic -std=c++11
 {% endhighlight bash %}
 
 and then, just run make.
