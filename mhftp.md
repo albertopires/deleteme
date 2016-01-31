@@ -1,6 +1,5 @@
 ---
 layout: page
-title: MhFTP
 ---
 
 ## Multi-homed File Transfer Protocol ##
@@ -30,9 +29,8 @@ For more information:
 
 ### Contributing
 For now it's just me, so I'll try to keep it simple. Basically **master** branch
-will have the latest (hopefully stable) version, and there will be a **next**
-branch where I'll work on upcoming features.
+will have the latest (hopefully stable) version, and there will be a
+ **next** branch where I'll work on upcoming features.
+For more information take a look at [Contributing](Documentation/CONTRIB.md).
 
 So, fork it and have fun.
-
-![vim_created](http://www.vim.org/images/vim_created.gif)

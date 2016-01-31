@@ -1,8 +1,3 @@
----
-layout: planet
-title: MhFTP
----
-
 ## Multi-homed File Transfer Protocol ##
 
 MhFtp is a tool to allow file transfer over a multi-homed host, that is, a host
@@ -21,9 +16,7 @@ It's possible to compile MhFtp on older version of g++, although it may necessar
 to comment the compile options **-pedantic** and **-std=c++11** on your Makefile.
 
 
-{% highlight bash %}
-CFLAGS=-Wall -g #-pedantic -std=c++11
-{% endhighlight bash %}
+``CFLAGS=-Wall -g #-pedantic -std=c++11``
 
 and then, just run make.
 
@@ -32,9 +25,8 @@ For more information:
 
 ### Contributing
 For now it's just me, so I'll try to keep it simple. Basically **master** branch
-will have the latest (hopefully stable) version, and there will be a **next**
-branch where I'll work on upcoming features.
+will have the latest (hopefully stable) version, and there will be a
+ **next** branch where I'll work on upcoming features.
+For more information take a look at [Contributing](Documentation/CONTRIB.md).
 
 So, fork it and have fun.
-
-![vim_created](http://www.vim.org/images/vim_created.gif)

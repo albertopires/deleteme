@@ -1,12 +1,12 @@
 <div class="sidebar ">
-  <h2>Recent Posts</h2>
-  <ul>
-    {% for post in site.posts limit:5 %}
-    <li><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+	<h2>Links</h2>
+	<ul>
+		<li><a href="{{site.baseurl | prepend:site.url}}">Fork on Github</a></li>
+		<li><a href="{{site.baseurl | prepend:site.url}}/zipball/master">Download ZIP</a></li>
+		<li><a href="{{site.baseurl | prepend:site.url}}/tarball/master">Download TAR</a></li>
+	</ul>
 </div>
-
+<!--
 <div class="sidebar">
   <h2>Tags</h2>
   <ul>
@@ -15,3 +15,4 @@
     {% endfor %}
   </ul>
 </div>
+-->
