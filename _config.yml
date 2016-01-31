@@ -9,6 +9,7 @@ url: http://albertopires.github.io
 
 # For a project page here should be a project name. Otherwise (for user's/organizaion's page leave it empty)
 baseurl: '/deleteme'
+project: 'albertopires/deleteme'
 
 social:
   github: albertopires
@@ -27,7 +28,7 @@ yandex_metrica:
 # Set this to your disqus shortname to enable comments. Note that the 'comments'
 # setting below must also be true. Individual posts can override 'comments' to
 # disable on a post-by-post basis
-disqus: deleteme
+disqus: 
 comments: false
 
 permalink: /:year/:month/:title
@@ -41,4 +42,4 @@ markdown: kramdown
 kramdown:
   input: GFM # Enable GitHub Flavored Markdown (fenced code blocks)
 
-exclude: ['README.md', 'LICENSE']
+exclude: ['LICENSE']
