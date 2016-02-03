@@ -6,5 +6,5 @@ the links, thus using the sum of all bandwitdhs.
 ### What is this repository for? ###
 
 * Quick summary
-* Version
+* Version 1
 * merge
