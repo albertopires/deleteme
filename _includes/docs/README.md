@@ -51,15 +51,24 @@ user@server:~/git/mhftp (master)$ ./mhclient archive.tar 192.168.120.10:5000 172
 ## Contributing ##
 For now it's just me, so I'll try to keep it simple. Basically **master** branch
 will have the latest (hopefully stable) version, and there will be a
- **next** branch where I'll work on upcoming features.
+ **next** branch where I'll be working on upcoming features.
 
 Contributing is not only about code. Besides a pull request, you can help by testing,
-documenting, sending money, beer, etc...
+documenting, reporting bugs, sending money, beer, etc...
 
 About code contribution, I'll kindly ask to stick to the actual code style. I decided to use the Google Code Style. I know people have different options and I respect them all, but, code style is about readability and that can not be achieved without consistency. So there can be only one. And Google has [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) (thanks Google), that helps a lot to keep a clean code.
 
 ## Contributing - Documentation ##
 Some of may have noticed a **gh-pages** branch. It's used by github to publish a web page and it has some nice features. But what you need to know is that I'm just using a [Jekyll template](http://jekyllrb.com/) to render my README.md to a nice page. So all you need to do is just edit the README.md file in the master branch and send a pull request. No need go through the **gh-pages** branch, unless, of course, you found something wrong with the template itself.
+
+### Workflow ###
+So far, what we have is; **master** for latest "stable" version, **next** for
+developing upcoming features and I may create some bug fix branch from **master**
+ for small bugs, that will later be merged to **next**.<br>
+ That workflow is not written in stone and is not the best one in the world, so
+ it may change in the future.
+
+
 
 
 So, fork it and have fun.
