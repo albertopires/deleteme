@@ -47,11 +47,12 @@ After a successful build, there will be the following binaries:
 * initFile
 
 ***mhftp*** is the server program. There are two options:
+
 * **-v** show version
 * **-p port** The default port is 5000.
 
 ***mhclient*** is the client program. Example:
-<br><br>
+
 `
 user@server:~/git/mhftp (master)$ ./mhclient archive.tar 192.168.120.10:5000 172.16.30.2:5000
 `
