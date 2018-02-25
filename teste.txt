@@ -25,3 +25,4 @@ squash-001
 squash-002
 squash-004
 squash-005
+squash-006
