@@ -23,3 +23,5 @@ pgp
 sub-001
 squash-001
 squash-002
+squash-004
+squash-005
