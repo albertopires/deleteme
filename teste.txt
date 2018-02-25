@@ -21,3 +21,4 @@ from master to staging to next
 1111111111111111B
 pgp
 sub-001
+squash-001
