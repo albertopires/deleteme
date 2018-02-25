@@ -22,3 +22,4 @@ from master to staging to next
 pgp
 sub-001
 squash-001
+squash-002
