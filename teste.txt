@@ -28,4 +28,4 @@ squash-005
 squash-006
 squash-007
 squash-008
-squash-009.a
+squash-009
