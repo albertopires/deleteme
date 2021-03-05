@@ -27,3 +27,4 @@ squash-004
 squash-005
 squash-006
 squash-007
+squash-008
