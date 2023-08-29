@@ -1,3 +1,3 @@
-module github.com/albertopires/deleteme/greetings/v1
+module github.com/albertopires/deleteme
 
 go 1.20
