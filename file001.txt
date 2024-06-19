@@ -1,4 +1,4 @@
-teste-001
+teste-001 (greetings - v1.0.4)
 teste-002
 master-003
 master-004
@@ -21,4 +21,4 @@ test-merge-20170529-04
 test-merge-20210303-01
 test-merge-20210303-02
 test-merge-20210303-03-B
-test-merge-20210303-03-A
+test-merge-20210303-03-Aa
