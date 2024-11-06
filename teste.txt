@@ -29,3 +29,4 @@ squash-006
 squash-007
 squash-008
 squash-009.a
+tz test
